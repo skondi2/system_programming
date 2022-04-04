@@ -1,0 +1,16 @@
+#basic
+
+a: c d
+	echo A
+b: e f
+	echo b
+c : 
+	echo c
+d: g
+	echo d
+e: 
+	echo e
+f:
+	echo f
+g:
+	echo g
